@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a fourth year PhD student in Statistics at Oregon State University. My work is centered around methods for microbiome analysis that incorporate correlations arising from compositionality and phylogenetic structure. 
+I'm currently a PhD student in Statistics at Oregon State University. My work is centered around methods for microbiome analysis that incorporate correlations arising from compositionality and phylogenetic structure. 
 
 My other interests include knitting, piano, swing dancing, and cats. 
 
